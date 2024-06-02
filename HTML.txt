@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nimrod Vine - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+        }
+        .contact-info {
+            list-style: none;
+            padding: 0;
+        }
+        .contact-info li {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Nimrod Vine</h1>
+    <p>Industrial Engineering and Management</p>
+</header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>Hello! My name is Nimrod Vine, and I am a fourth-year Industrial Engineering and Management student at Ben-Gurion University. I have a diverse background in project management, including experience in the military and educational sectors. I am passionate about agriculture, particularly agritech, and I am eager to leverage my skills and experience in this field.</p>
+</section>
+
+<section id="experience">
+    <h2>Experience</h2>
+    <h3>Project Manager, Libko – Automotive Tests (August 2023 – Present)</h3>
+    <ul>
+        <li>Led and managed a testing project for an Information Systems app for monitoring cargo trucks.</li>
+        <li>Analyzed test results and provided insights.</li>
+        <li>Utilized MS-Project and Notion for task management, resource allocation, and budget monitoring.</li>
+        <li>Maintained connections with stakeholders.</li>
+        <li>Mapped business processes and designed flow charts to enhance efficiency.</li>
+    </ul>
+    <h3>Manager & Co-Founder of a pre-military preparatory program, "Le-oro" Association (August 2018 – August 2022)</h3>
+    <ul>
+        <li>Managed a team of 3 employees and 30 participants in a three-month program.</li>
+        <li>Defined goals, built work plans, and led the organization to achieve them.</li>
+        <li>Attracted clients, donors, and volunteers through effective communication, interpersonal and presentations skills.</li>
+        <li>Fundraised and managed a budget of 200K NIS per year.</li>
+    </ul>
+    <h3>Content Delivery Specialist (August 2018 – Present)</h3>
+    <ul>
+        <li>Delivered lectures at high schools and military units on "Overcoming challenges through physical fitness".</li>
+    </ul>
+</section>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>Programming: SQL, Java, Python, VBA</li>
+        <li>Office: MS Project, Excel (high level)</li>
+        <li>Info Managing: Air Table</li>
+        <li>Project management and business process mapping</li>
+        <li>Statistical analysis and data visualization</li>
+    </ul>
+</section>
+
+<section id="education">
+    <h2>Education</h2>
+    <h3>Ben-Gurion University (October 2020 – Present)</h3>
+    <p>Selected courses:</p>
+    <ul>
+        <li>Project Management Methods (MS Project)</li>
+        <li>BI - Data analysis and dashboard development (SQL & Tableau)</li>
+        <li>Machine Learning & Image Processing (Python)</li>
+    </ul>
+    <p>Final Project: Developing a Quality Control program utilizing Computer vision for a medical start-up company.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <ul class="contact-info">
+        <li>Email: <a href="mailto:Nimrod.vine22@gmail.com">Nimrod.vine22@gmail.com</a></li>
+        <li>Phone: +972-50-7223-765</li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/nimrod-vine/" target="_blank">linkedin.com/in/nimrod-vine/</a></li>
+    </ul>
+</section>
+
+<footer>
+    <p>&copy; 2024 Nimrod Vine</p>
+</footer>
+
+</body>
+</html>
